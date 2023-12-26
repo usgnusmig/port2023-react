@@ -16,3 +16,9 @@
 - sass를 설치합니다. `npm install sass`
 - gsap를 설치합니다. `npm install gsap`
 - lenis를 설치합니다. `npm install @studio-freight/lenis`
+
+## 백업이 필요할 때마다 이렇게 올리시면 됩니다.
+
+git add .
+git commit -m "😤 다시 한번 커밋"
+git push -u origin main
